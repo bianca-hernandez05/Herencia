@@ -1,0 +1,14 @@
+C:\Users\Gallo\OneDrive\Escritorio\Herencia\TiendaTelefono\obj\Debug\net6.0\TiendaTelefono.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gallo\OneDrive\Escritorio\Herencia\TiendaTelefono\obj\Debug\net6.0\TiendaTelefono.AssemblyInfoInputs.cache
+C:\Users\Gallo\OneDrive\Escritorio\Herencia\TiendaTelefono\obj\Debug\net6.0\TiendaTelefono.AssemblyInfo.cs
+C:\Users\Gallo\OneDrive\Escritorio\Herencia\TiendaTelefono\obj\Debug\net6.0\TiendaTelefono.csproj.CoreCompileInputs.cache
+C:\Users\Gallo\OneDrive\Escritorio\Herencia\TiendaTelefono\bin\Debug\net6.0\TiendaTelefono.exe
+C:\Users\Gallo\OneDrive\Escritorio\Herencia\TiendaTelefono\bin\Debug\net6.0\TiendaTelefono.deps.json
+C:\Users\Gallo\OneDrive\Escritorio\Herencia\TiendaTelefono\bin\Debug\net6.0\TiendaTelefono.runtimeconfig.json
+C:\Users\Gallo\OneDrive\Escritorio\Herencia\TiendaTelefono\bin\Debug\net6.0\TiendaTelefono.dll
+C:\Users\Gallo\OneDrive\Escritorio\Herencia\TiendaTelefono\bin\Debug\net6.0\TiendaTelefono.pdb
+C:\Users\Gallo\OneDrive\Escritorio\Herencia\TiendaTelefono\obj\Debug\net6.0\TiendaTelefono.dll
+C:\Users\Gallo\OneDrive\Escritorio\Herencia\TiendaTelefono\obj\Debug\net6.0\refint\TiendaTelefono.dll
+C:\Users\Gallo\OneDrive\Escritorio\Herencia\TiendaTelefono\obj\Debug\net6.0\TiendaTelefono.pdb
+C:\Users\Gallo\OneDrive\Escritorio\Herencia\TiendaTelefono\obj\Debug\net6.0\TiendaTelefono.genruntimeconfig.cache
+C:\Users\Gallo\OneDrive\Escritorio\Herencia\TiendaTelefono\obj\Debug\net6.0\ref\TiendaTelefono.dll
